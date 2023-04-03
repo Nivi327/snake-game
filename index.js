@@ -24,7 +24,7 @@ function init() {
 
     // create a snake object
     snake = {
-        init_len: 10,
+        init_len: 3,
         color: "blue",
         cells: [],
         direction: "right",
