@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#myCanvas {
+    background-color: black;
+    border: 20px solid rgba(72, 72, 72, 0.384);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
